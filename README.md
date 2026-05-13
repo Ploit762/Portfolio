@@ -11,7 +11,7 @@ TryHackMe Account:
 My journey and schooling in computer science as a teenager led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Main Tools I use daily
-- Kali Linux - Used to practice Pen tech techniques like port scanning, Prassword cracking (John The Ripper), and learning how to pivot efficiently within a network once it is hacked.
+- Kali Linux - Used to practice Pen tech techniques like port scanning, Prassword cracking, and learning how to pivot efficiently within a network once it is hacked.
 
 - CMD (Command Prompt)- Used to interact with the Operating system, great way to use as a Command and Control tool when used effectively.
 
